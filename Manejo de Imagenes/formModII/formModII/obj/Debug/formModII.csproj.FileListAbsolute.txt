@@ -1,0 +1,21 @@
+E:\INF - 324\Visual Studio proy\MOD II\formModII\formModII\bin\Debug\formModII.exe.config
+E:\INF - 324\Visual Studio proy\MOD II\formModII\formModII\bin\Debug\formModII.exe
+E:\INF - 324\Visual Studio proy\MOD II\formModII\formModII\bin\Debug\formModII.pdb
+E:\INF - 324\Visual Studio proy\MOD II\formModII\formModII\obj\Debug\formModII.csprojResolveAssemblyReference.cache
+E:\INF - 324\Visual Studio proy\MOD II\formModII\formModII\obj\Debug\formModII.Form1.resources
+E:\INF - 324\Visual Studio proy\MOD II\formModII\formModII\obj\Debug\formModII.Properties.Resources.resources
+E:\INF - 324\Visual Studio proy\MOD II\formModII\formModII\obj\Debug\formModII.csproj.GenerateResource.Cache
+E:\INF - 324\Visual Studio proy\MOD II\formModII\formModII\obj\Debug\formModII.exe
+E:\INF - 324\Visual Studio proy\MOD II\formModII\formModII\obj\Debug\formModII.pdb
+C:\Users\kapa\Desktop\OCTAVO SEMESTRE\INF 324 PROGRAMACION MULTIMEDIAL\EXAMEN FINAL\Manejo de Imagenes\formModII\formModII\bin\Debug\formModII.exe.config
+C:\Users\kapa\Desktop\OCTAVO SEMESTRE\INF 324 PROGRAMACION MULTIMEDIAL\EXAMEN FINAL\Manejo de Imagenes\formModII\formModII\obj\Debug\formModII.exe
+C:\Users\kapa\Desktop\OCTAVO SEMESTRE\INF 324 PROGRAMACION MULTIMEDIAL\EXAMEN FINAL\Manejo de Imagenes\formModII\formModII\obj\Debug\formModII.pdb
+C:\Users\kapa\Desktop\OCTAVO SEMESTRE\INF 324 PROGRAMACION MULTIMEDIAL\EXAMEN FINAL\Manejo de Imagenes\formModII\formModII\obj\Debug\formModII.csprojResolveAssemblyReference.cache
+C:\Users\kapa\Desktop\OCTAVO SEMESTRE\INF 324 PROGRAMACION MULTIMEDIAL\EXAMEN FINAL\Manejo de Imagenes\formModII\formModII\obj\Debug\formModII.Form1.resources
+C:\Users\kapa\Desktop\OCTAVO SEMESTRE\INF 324 PROGRAMACION MULTIMEDIAL\EXAMEN FINAL\Manejo de Imagenes\formModII\formModII\obj\Debug\formModII.Properties.Resources.resources
+C:\Users\kapa\Desktop\OCTAVO SEMESTRE\INF 324 PROGRAMACION MULTIMEDIAL\EXAMEN FINAL\Manejo de Imagenes\formModII\formModII\obj\Debug\formModII.csproj.GenerateResource.Cache
+C:\Users\kapa\Desktop\OCTAVO SEMESTRE\INF 324 PROGRAMACION MULTIMEDIAL\EXAMEN FINAL\Manejo de Imagenes\formModII\formModII\bin\Debug\formModII.exe
+C:\Users\kapa\Desktop\OCTAVO SEMESTRE\INF 324 PROGRAMACION MULTIMEDIAL\EXAMEN FINAL\Manejo de Imagenes\formModII\formModII\bin\Debug\formModII.pdb
+C:\Users\kapa\Desktop\OCTAVO SEMESTRE\INF 324 PROGRAMACION MULTIMEDIAL\EXAMEN FINAL\Archivos\Manejo de Imagenes\formModII\formModII\bin\Debug\formModII.exe.config
+C:\Users\kapa\Desktop\OCTAVO SEMESTRE\INF 324 PROGRAMACION MULTIMEDIAL\EXAMEN FINAL\Archivos\Manejo de Imagenes\formModII\formModII\obj\Debug\formModII.exe
+C:\Users\kapa\Desktop\OCTAVO SEMESTRE\INF 324 PROGRAMACION MULTIMEDIAL\EXAMEN FINAL\Archivos\Manejo de Imagenes\formModII\formModII\obj\Debug\formModII.pdb
